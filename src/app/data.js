@@ -11,7 +11,7 @@ export const data=[
         id: 2, 
         title: 'Super Mario Odyssey', 
         price: 49.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/mariodiseo.jpeg', 
         quantity: 1,
         detail: 'Un juego de plataformas con mundos creativos y coloridos.' 
     }, 
@@ -19,7 +19,7 @@ export const data=[
         id: 3, 
         title: 'Red Dead Redemption 2', 
         price: 69.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/redded2.jpg', 
         quantity: 1,
         detail: 'Una épica historia del Lejano Oeste con un mundo abierto vasto.'
     }, 
@@ -27,7 +27,7 @@ export const data=[
         id: 4, 
         title: 'The Witcher 3: Wild Hunt', 
         price: 39.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/wicher3.jpg', 
         quantity: 1,
         detail: 'Un RPG de mundo abierto con una narrativa profunda y rica.'
     }, 
@@ -35,7 +35,7 @@ export const data=[
         id: 5, 
         title: 'Grand Theft Auto V', 
         price: 74.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/gtav.jpeg', 
         quantity: 1,
         detail: 'Un juego de acción y aventura en un mundo abierto moderno.'
     },
@@ -43,7 +43,7 @@ export const data=[
         id: 6, 
         title: 'Minecraft', 
         price: 29.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/minecraft.jpg', 
         quantity: 1,
         detail: 'Un juego de construcción y supervivencia con bloques.'
     },
@@ -51,7 +51,7 @@ export const data=[
         id: 7, 
         title: 'Fortnite', 
         price: 24.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/fornite.jpg', 
         quantity: 1,
         detail: 'Un juego de batalla real con un estilo único de construcción.'
     },
@@ -59,7 +59,7 @@ export const data=[
         id: 8, 
         title: 'Call of Duty: Modern Warfare', 
         price: 54.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/codmw.jpg', 
         quantity: 1,
         detail: 'Un shooter en primera persona con una campaña intensa.'
     },
@@ -67,7 +67,7 @@ export const data=[
         id: 9, 
         title: 'Assassin\'s Creed Valhalla', 
         price: 65.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/acvalhala.jpg', 
         quantity: 1,
         detail: 'Un juego de acción y aventura en el mundo de los vikingos.'
     },
@@ -75,7 +75,7 @@ export const data=[
         id: 10, 
         title: 'FIFA 21', 
         price: 44.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/fifa21.jpg', 
         quantity: 1,
         detail: 'El juego de fútbol más popular con modos de juego variados.'
     },
@@ -83,7 +83,7 @@ export const data=[
         id: 11, 
         title: 'Horizon Zero Dawn', 
         price: 49.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/hodawn.jpg', 
         quantity: 1,
         detail: 'Un RPG de acción con un mundo abierto post-apocalíptico.'
     }, 
@@ -91,7 +91,7 @@ export const data=[
         id: 12, 
         title: 'God of War', 
         price: 59.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/gow.jpg', 
         quantity: 1,
         detail: 'Una épica aventura de acción con Kratos y su hijo Atreus.'
     }, 
@@ -99,7 +99,7 @@ export const data=[
         id: 13, 
         title: 'Cyberpunk 2077', 
         price: 65.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/cyberpunk.png', 
         quantity: 1,
         detail: 'Un RPG futurista con un mundo abierto y opciones de juego vastas.'
     }, 
@@ -107,7 +107,7 @@ export const data=[
         id: 14, 
         title: 'The Last of Us Part II', 
         price: 69.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/lastof2.jpg', 
         quantity: 1,
         detail: 'Una narrativa emocional en un mundo post-apocalíptico.'
     }, 
@@ -115,7 +115,7 @@ export const data=[
         id: 15, 
         title: 'Sekiro: Shadows Die Twice', 
         price: 39.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/sekiro.jpg', 
         quantity: 1,
         detail: 'Un juego de acción con una jugabilidad desafiante y precisa.'
     },
@@ -123,7 +123,7 @@ export const data=[
         id: 16, 
         title: 'Death Stranding', 
         price: 54.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/deathstr.jpg', 
         quantity: 1,
         detail: 'Un juego de exploración con una historia intrigante y única.'
     },
@@ -131,7 +131,7 @@ export const data=[
         id: 17, 
         title: 'Demon\'s Souls', 
         price: 69.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/demossoul.jpg', 
         quantity: 1,
         detail: 'Un remake del clásico juego de acción y RPG con dificultad alta.'
     },
@@ -139,7 +139,7 @@ export const data=[
         id: 18, 
         title: 'Ghost of Tsushima', 
         price: 64.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/ghostof.jpg', 
         quantity: 1,
         detail: 'Una épica aventura en Japón feudal con samuráis y sigilo.'
     },
@@ -147,7 +147,7 @@ export const data=[
         id: 19, 
         title: 'Ratchet & Clank: Rift Apart', 
         price: 59.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/rachet.png', 
         quantity: 1,
         detail: 'Un juego de acción y aventuras con saltos interdimensionales.'
     },
@@ -155,7 +155,7 @@ export const data=[
         id: 20, 
         title: 'Spider-Man: Miles Morales', 
         price: 49.99, 
-        urlImage: 'https://images.penguinrandomhouse.com/cover/9780525562443', 
+        urlImage: './images/apiderman.jpg', 
         quantity: 1,
         detail: 'Un juego de acción protagonizado por el joven Spider-Man, Miles Morales.'
     }
